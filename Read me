@@ -1,0 +1,22 @@
+# PLS Regression Analysis
+
+This repository contains a Python script demonstrating Partial Least Squares (PLS) regression. The script generates synthetic data, trains a PLS regression model, and visualizes the results using scatter plots.
+
+## Features
+
+- Simulates synthetic data with linear relationships.
+- Trains a PLS regression model using `scikit-learn`.
+- Visualizes PLS scores and correlations.
+
+## Requirements
+
+- Python 3.x
+- NumPy
+- Matplotlib
+- scikit-learn
+
+## Installation
+
+Install the required Python libraries with:
+```bash
+pip install numpy matplotlib scikit-learn
